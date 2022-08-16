@@ -10,13 +10,19 @@
 ![GitHub issues](https://img.shields.io/github/issues/Aryanp45/Netizen2K22.github.io?label=Issues)
 <hr>
 
-**Netizen 2k22**
+> **Netizen 2k22**
 </h1>
 
 ## **Netizen by IT Department GPJ**
 
 Government Polytechnic Jalgaon ~ The Department of Information Technology invites everyone to its NETIZEN 2k22 by featuring the Futuristic Beauty of events.Participate and be the part of the #NetCity The events exhibits will be on May 12, 2022.
 
+<center> 
+
+> ## **Poster**
+![Poster](https://raw.githubusercontent.com/AryanP45/Netizen2K22.github.io/master/dist/poster.png)
+
+</center>
   <!-- CONTRIBUTING -->
 
 ## 📝 Contributing

@@ -20,7 +20,7 @@ Government Polytechnic Jalgaon ~ The Department of Information Technology invite
 <center> 
 
 > ## **Poster**
-![Poster](https://raw.githubusercontent.com/AryanP45/Netizen2K22.github.io/master/dist/poster.png)
+![Poster](https://raw.githubusercontent.com/AryanP45/Netizen2K22.github.io/master/src/assets/poster.png)
 </center>
   <!-- CONTRIBUTING -->
 
